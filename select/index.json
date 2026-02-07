@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ヒメイドディストーション",
+  "base_artist": "yutori",
+  "createdAt": "2026-02-07T22:50:02.881132Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ヒメイドディストーション",
+      "artist": "yutori",
+      "has_synced": false,
+      "path": "select/01_ヒメイドディストーション_yutori.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヒメイドディストーション",
+      "artist": "yutori",
+      "has_synced": false,
+      "path": "select/pl_01_ヒメイドディストーション_yutori.txt"
+    }
+  ]
+}
